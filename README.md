@@ -1,2 +1,2 @@
 # OldMaid_CardGame
-Old Maid card game
+Python Old Maid card game
